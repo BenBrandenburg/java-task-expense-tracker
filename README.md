@@ -10,6 +10,19 @@ A Java application for managing tasks and expenses.
 - Console interface
 - JUnit tests
 
+## Project Structure
+
+src/
+├── app
+├── model
+├── service
+└── ui
+
+## Future Improvements
+
+- JavaFX GUI
+- JSON persistence
+
 ## Technologies
 
 - Java
