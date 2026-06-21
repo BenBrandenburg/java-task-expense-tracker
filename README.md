@@ -36,3 +36,4 @@ src/
 
 - JavaFX GUI
 - JSON persistence
+- A small web-based version using HTML, CSS and JavaScript or TypeScript
